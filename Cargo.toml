@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+crossterm = "0.29"
+rand = "0.9"
+terminal-colorsaurus = "1"
+whoami = "1.6"
